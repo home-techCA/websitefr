@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,500,600,700,900,300italic");
 
 /*
 	Dopetrope by HTML5 UP
@@ -102,14 +102,14 @@ input, select, textarea {
 
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
-		font-weight: 300;
+		font-weight: 500;
 		color: #5d5d5d;
-		font-size: 14pt;
+		font-size: 16pt;
 		line-height: 1.75em;
 	}
 
 	strong, b {
-		color: #252122;
+		color: #0a0909;
 		font-weight: 400;
 	}
 
@@ -1596,7 +1596,7 @@ input, select, textarea {
 		}
 
 		.box.post h2 {
-			font-size: 2.5em;
+			font-size: 3.5em;
 			letter-spacing: -0.015em;
 		}
 
